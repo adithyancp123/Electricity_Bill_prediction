@@ -5,7 +5,7 @@ import joblib
 from pathlib import Path
 
 
-MODEL_PATH = Path(__file__).resolve().parent / "polynomial_regression_electric_bill.pkl"
+MODEL_PATH = Path(__file__).resolve().parent / "polynomial_regression_electric_bill (1).pkl"
 
 
 @st.cache_resource
